@@ -79,15 +79,13 @@ Used `try-except` blocks to demonstrate:
 
 ---
 
-## Testing and Code Quality
-
-- Comprehensive test coverage (`pytest`): >90%
-- Code quality maintained using `pylint` adhering to PEP 8 standards.
 
 Run tests using:
 ```bash
+pytest
 pytest --cov
 pytest --pylint
+pytest --pylint --cov
 ```
 
 ---
@@ -128,5 +126,5 @@ Type `menu` for a list of available commands, or type `exit` to quit.
 
 ## Video Demonstration
 
-[Link to demonstration video.](#)
+[https://youtu.be/e9rTya5htvA](#)
 
