@@ -97,7 +97,7 @@ Continuous Integration setup via GitHub Actions:
 - Tests and lint checks automatically run on every push.
 - Ensures passing test coverage before merges.
 
-[GitHub Actions Workflow](.github/workflows/python-ci.yml)
+[GitHub Actions Workflow](.github/workflows/python-app.yml)
 
 ---
 
@@ -126,5 +126,5 @@ Type `menu` for a list of available commands, or type `exit` to quit.
 
 ## Video Demonstration
 
-[https://youtu.be/e9rTya5htvA](#)
+[https://youtu.be/e9rTya5htvA]
 
